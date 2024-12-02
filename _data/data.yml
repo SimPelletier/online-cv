@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Simon Pelletier
     tagline: CEP | M.A.Sc. Candidate | Mechanical Engineering
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: SimonPicture.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: simon.pelletier.5@etsmtl.net
@@ -61,7 +61,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      #Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
@@ -77,49 +77,49 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Mechanical Design
+        level: 93%
 
-      - name: Structural Engineering
-        level: 98%
+      - name: Programming (Python, Numba, Latex)
+        level: 83%
 
-      - name: Angular
-        level: 98%
+      - name: Structural Engineering (Ansys APDL, Altair, Fatigue)
+        level: 83%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Data Analysis (Numpy, Pandas, Sk-learn)
+        level: 66%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Computer Vision (OpenCV)
+        level: 50%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Scientific Visualization (VTK, Paraview)
+        level: 50%
 
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: M.Sc.A. candidate in Mechanical Engineering
+        university: École des Technologies Supérieures (ETS)
+        time: Since 2022
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Comprehensive mechanical modeling of cables under cyclic loading for service life prediction.
+            - 3D reconstruction of cable internal wire paths from computed tomography data using image processing (OpenCV)
+            - Macro-scale modeling of internal cable structures using homogenization approaches (Python, APDL)
+            - Wire-level modeling of a braided structure inside cable outer layers with hundreds of thousands of contact interactions.
+            - Analysis of contact interaction data using open-source 3D scientific visualization tools (VTK).
+      - degree: Abroad Studies
+        university: Universitat Politècnica de Catalunya (UPC)
+        time: Win-Spr 2020
+        details: 
+      - degree: B.Sc. in Mechanical Engineering
+        university: École des Technologies Supérieures (ETS)
+        time: 2016 to 2020
+        details: 
+      - degree: College in Mechanical Engineering
+        university: Cégep Lévis-Lauzon
+        time: 2013 to 2016
+        details: 
+
 
 experiences:
     title: Experiences
