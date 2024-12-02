@@ -124,84 +124,79 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Practical class teacher for MEC528 course.
+        time: 2022 to 2024
+        company: École des Technologies Supérieures (ETS)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          - Synthesize concepts related to machine elements and fatigue.
+          - Carry out classroom and laboratory exercises.
+      - role: CEP Project Manager
+        time: 2020 to 2022
+        company: Centre de développement des composites du Québec (CDCQ)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          - Design of tooling and structural composite parts for high-performance and lightweight solutions.
+      - role: Mechanical Designer - Internship
+        time: Sum 2019
+        company: Rocky Mountain Bicycles
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+			    - Design of reliability test benches for electric motor components.
+          - Implementation of an electric motor efficiency bench test.
+          - Post-processing of test data.
+          - Development of test procedures.
+      - role: Mechanical Designer - Internship
+        time: Sum-Spr 2017
+        company: Centre de développement des composites du Québec (CDCQ)
+        details: |
+          - Design of tooling and structural composite parts.
+          - Implementation of a large-capacity FDM 3D printer.
+          - Design of a nylon in-situ curing machine.
+      - role: Draftsman
+        time: Sum 2016
+        company: Les Équipements Marki
+        details: |
+        	- Industrial machinery design and modeling.
+			    - Welding and assembly.
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+#certifications:
+#      title: Certifications
+#      list:
+#        - name: CV Builder
+#          start: 2020
+#          end: 2021
+#          organization: Microsoft
+#          credentialid: 111-222
+#          credentialurl: www.google.com
+#          credentialname: Google
+#          details: |
+#            Details about cert. Lorem ipsum dolor sit amet, consectetur
+#            adipiscing elit.
+#            Nullam eget orci purus. Nullam ultrices neque nibh.
+#            Aenean fermentum, felis vulputate suscipit accumsan,
+#            sem enim bibendum augue, sed convallis arcu lacus at dui.
+#            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+#            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+#            Praesent venenatis erat non augue suscipit consectetur.
+#
+#            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+#            fringilla vel. Ut euismod, sem sed vulputate venenatis,
+#            justo diam viverra velit, sed rhoncus leo leo eu justo.
+#            Suspendisse placerat risus ante, sed porta nisi blandit at.
+#        - name: Git learning
+#          start: 2019
+#          end:
+#          organization: Microsoft
+#          credentialid: 111-222
+#          credentialurl: www.github.com
+#          credentialname: Github
+#          details: |
+#            Older certification. Lorem ipsum dolor sit amet, consectetur
+#            adipiscing elit.
+#            Nullam eget orci purus. Nullam ultrices neque nibh.
+#            Aenean fermentum, felis vulputate suscipit accumsan,
+#            sem enim bibendum augue, sed convallis arcu lacus at dui.
+#            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+#            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+#            Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
     title: Projects
@@ -212,6 +207,7 @@ projects:
     assignments:
       - title: Velocity
         link: "#hook"
+        time: Sum 2016
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
