@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
+    position: left # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
@@ -199,7 +199,7 @@ projects:
     assignments:
       - title: Custom Linear Finite Element Analysis (FEA) Program of Composite Beams and Plates (Spr 2022)
         link: 
-        tagline: "Orthotropic properties derived from the Classical Laminate Theory. Beam element formulation based on Timoshenko beam theory. Plate element formulation based on Reissner-Mindlin theory.  Validated with Ansys software using the ACP module."
+        tagline: "This program was developed as a final project for a course at the École des Technologies Supérieures (ETS). The orthotropic properties were determined using the Classical Laminate Theory. The beam element formulation was based on Timoshenko beam theory, while the plate element formulation was based on Reissner-Mindlin theory.  All models were validated with Ansys software using the ACP module."
 
       - title: Design of a Bicycle Cable Disc Brake (Win-Spr 2020)
         link: "https://raw.githubusercontent.com/SimPelletier/online-cv/master/assets/projects/G05_FrenoBici.pdf"
