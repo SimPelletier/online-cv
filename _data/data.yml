@@ -33,7 +33,7 @@ sidebar:
     leetcode: # Please provide your LeetCode username.
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
     pdfen: https://raw.githubusercontent.com/SimPelletier/online-cv/master/assets/CV_en.pdf # https://github.com/SimPelletier/online-cv/blob/master/assets/projects/G05_FrenoBici.pdf
-    pdffr: https://raw.githubusercontent.com/SimPelletier/online-cv/master/assets/CV_en.pdf
+    pdffr: https://raw.githubusercontent.com/SimPelletier/online-cv/master/assets/CV_fr.pdf
 
     languages:
       title: Languages
@@ -93,21 +93,21 @@ skills:
 education:
     title: Education
     info:
-      - degree: M.Sc.A. candidate in Mechanical Engineering
-        university: École des Technologies Supérieures (ETS)
+      - degree: M.A.Sc. candidate in Mechanical Engineering
+        university: École de Technologie Supérieure (ETS)
         time: Since 2022
         details: |
           Comprehensive mechanical modeling of cables under cyclic loading for service life prediction.
             - [3D reconstruction of cable internal wire paths from computed tomography data](https://event.fourwaves.com/csme2023/abstracts/1738a563-c5d7-40d8-9531-1f3403ec064c) using image processing (OpenCV)
             - Macro-scale modeling of internal cable structures using homogenization approaches (Python, APDL)
-            - Wire-level modeling of a braided structure inside cable outer layers with hundreds of thousands of contact interactions.
+            - Wire-level modeling of a braided structure inside cable outer layers with several million contact points.
             - Analysis of contact interaction data using open-source 3D scientific visualization tools (VTK).
       - degree: Abroad Studies
         university: Universitat Politècnica de Catalunya (UPC)
         time: Win-Spr 2020
         details: 
       - degree: B.Sc. in Mechanical Engineering
-        university: École des Technologies Supérieures (ETS)
+        university: École de Technologie Supérieure (ETS)
         time: 2016 to 2020
         details: 
       - degree: College in Mechanical Engineering
@@ -120,7 +120,7 @@ experiences:
     info:
       - role: Practical class teacher for MEC528 course.
         time: 2022 to 2024
-        company: École des Technologies Supérieures (ETS)
+        company: École de Technologie Supérieure (ETS)
         details: |
           - Synthesize concepts related to machine elements and mechanical fatigue.
           - Carry out classroom and laboratory exercises.
@@ -138,7 +138,7 @@ experiences:
           - Post-processing of test data.
           - Development of test procedures.
       - role: Mechanical Designer - Internship
-        time: Sum-Spr 2017
+        time: Sum-Fal 2017
         company: Centre de développement des composites du Québec (CDCQ)
         details: |
           - Design of tooling and structural composite parts.
@@ -199,7 +199,7 @@ projects:
     assignments:
       - title: Custom Linear Finite Element Analysis (FEA) Program of Composite Beams and Plates (Spr 2022)
         link: 
-        tagline: "This program was developed as a final project for a course at the École des Technologies Supérieures (ETS). The orthotropic properties were determined using the Classical Laminate Theory. The beam element formulation was based on Timoshenko beam theory, while the plate element formulation was based on Reissner-Mindlin theory.  All models were validated with Ansys software using the ACP module."
+        tagline: "This program was developed as a final project for a course at the École de Technologie Supérieure (ETS). The orthotropic properties were determined using the Classical Laminate Theory. The beam element formulation was based on Timoshenko beam theory, while the plate element formulation was based on Reissner-Mindlin theory.  All models were validated with Ansys software using the ACP module."
 
       - title: Design of a Bicycle Cable Disc Brake (Win-Spr 2020)
         link: "https://raw.githubusercontent.com/SimPelletier/online-cv/master/assets/projects/G05_FrenoBici.pdf"
