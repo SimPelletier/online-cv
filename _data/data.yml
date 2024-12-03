@@ -32,6 +32,8 @@ sidebar:
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+    pdfen: https://raw.githubusercontent.com/SimPelletier/online-cv/master/assets/projects/CV_en.pdf # https://github.com/SimPelletier/online-cv/blob/master/assets/projects/G05_FrenoBici.pdf
+    pdffr: https://raw.githubusercontent.com/SimPelletier/online-cv/master/assets/projects/CV_en.pdf
 
     languages:
       title: Languages
@@ -61,13 +63,6 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      #Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-
       I am a mechanical engineering candidate with a specialization in mechanical design. I possess particular expertise in the use of Python and open-source libraries for the design and validation of mechanical structures, which I have applied to my master's project. 
 
       My experience includes mechanical design of composite structures, manufacturing processes, tooling and machine element design. Additionally, I have a strong understanding of cable mechanics, which I acquired as part of my master's research. 
@@ -103,7 +98,7 @@ education:
         time: Since 2022
         details: |
           Comprehensive mechanical modeling of cables under cyclic loading for service life prediction.
-            - 3D reconstruction of cable internal wire paths from computed tomography data using image processing (OpenCV)
+            - [3D reconstruction of cable internal wire paths from computed tomography data](https://event.fourwaves.com/csme2023/abstracts/1738a563-c5d7-40d8-9531-1f3403ec064c) using image processing (OpenCV)
             - Macro-scale modeling of internal cable structures using homogenization approaches (Python, APDL)
             - Wire-level modeling of a braided structure inside cable outer layers with hundreds of thousands of contact interactions.
             - Analysis of contact interaction data using open-source 3D scientific visualization tools (VTK).
@@ -120,7 +115,6 @@ education:
         time: 2013 to 2016
         details: 
 
-
 experiences:
     title: Experiences
     info:
@@ -128,7 +122,7 @@ experiences:
         time: 2022 to 2024
         company: École des Technologies Supérieures (ETS)
         details: |
-          - Synthesize concepts related to machine elements and fatigue.
+          - Synthesize concepts related to machine elements and mechanical fatigue.
           - Carry out classroom and laboratory exercises.
       - role: CEP Project Manager
         time: 2020 to 2022
@@ -139,7 +133,7 @@ experiences:
         time: Sum 2019
         company: Rocky Mountain Bicycles
         details: |
-			    - Design of reliability test benches for electric motor components.
+          - Design of reliability test benches for electric motor components.
           - Implementation of an electric motor efficiency bench test.
           - Post-processing of test data.
           - Development of test procedures.
@@ -154,8 +148,8 @@ experiences:
         time: Sum 2016
         company: Les Équipements Marki
         details: |
-        	- Industrial machinery design and modeling.
-			    - Welding and assembly.
+          - Industrial machinery design and modeling.
+          - Welding and assembly.
 
 #certifications:
 #      title: Certifications
@@ -201,72 +195,52 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      A list of some projects in which I have participated.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        time: Sum 2016
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Custom Linear Finite Element Analysis (FEA) Program of Composite Beams and Plates (Spr 2022)
+        link: 
+        tagline: "Orthotropic properties derived from the Classical Laminate Theory. Beam element formulation based on Timoshenko beam theory. Plate element formulation based on Reissner-Mindlin theory.  Validated with Ansys software using the ACP module."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Design of a Bicycle Cable Disc Brake (Win-Spr 2020)
+        link: "https://raw.githubusercontent.com/SimPelletier/online-cv/master/assets/projects/G05_FrenoBici.pdf"
+        tagline: "The design was carried out using the available modules in SolidWorks for design validation purposes. This project was completed as part of a course at the Universitat Politècnica de Catalunya (UPC)"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Participation in the Student Project C-Class Catamaran (2016 to 2018)
+        link: "https://www.rafale-ets.com/en/rafale-ii-class-c"
+        tagline: "I was involved in the design and manufacturing of a 25-foot foiling catamaran, with particular responsibility for developing the interface between the daggerboards and the hulls."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Design and Manufacture of a Nylon Ropes Machine Cutter (Spr 2016)
+        link: "https://www.youtube.com/watch?v=KyTDR0l1Jcc&t=19s&ab_channel=SimonPelletier"
+        tagline: "I collaborated with a colleague on the design and manufacture of the prototype, as well as the programming of an Arduino board for system operation and user interface."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#oss:
+#    title: OSS Contributions
+#    intro: >
+#      You can list your open source software contributions in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    contributions:
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+      - title: HV cable 3D geometric reconstruction from computed tomography scan
+        link: "https://event.fourwaves.com/csme2023/abstracts/1738a563-c5d7-40d8-9531-1f3403ec064c"
+        authors: Simon Pelletier, Alexandre Mongrain, Sébastien Lalonde
+        conference: CSME, 2023
 
 footer: >
     References Upon Request
