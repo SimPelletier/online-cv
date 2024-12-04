@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Simon Pelletier
-    tagline: CEP | M.A.Sc. Candidate | Mechanical Engineering
+    tagline: M.A.Sc. Candidate | Mechanical Engineering
     avatar: SimonPicture.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -124,7 +124,7 @@ experiences:
         details: |
           - Synthesize concepts related to machine elements and mechanical fatigue.
           - Carry out classroom and laboratory exercises.
-      - role: CEP Project Manager
+      - role: Project Manager
         time: 2020 to 2022
         company: Centre de développement des composites du Québec (CDCQ)
         details: |
