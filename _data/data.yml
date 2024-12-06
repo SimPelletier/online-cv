@@ -128,13 +128,16 @@ experiences:
         time: 2020 to 2022
         company: Centre de développement des composites du Québec (CDCQ)
         details: |
-          - Design of tooling and structural composite parts for high-performance and lightweight solutions.
+          Design of tooling and structural composite parts for high-performance and lightweight solutions.
+          - Understanding the customer's requirements.
+          - Project management from kick-off to completion.
+          - Providing quotations.
       - role: Mechanical Designer - Internship
         time: Sum 2019
         company: Rocky Mountain Bicycles
         details: |
           - Design of reliability test benches for electric motor components.
-          - Implementation of an electric motor efficiency bench test.
+          - Design and implementation of an electric motor efficiency bench test.
           - Post-processing of test data.
           - Development of test procedures.
       - role: Mechanical Designer - Internship
@@ -195,7 +198,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      A list of some projects in which I have participated.
+      A list of some projects in which I was involved and to which I was responsible. 
     assignments:
       - title: Custom Linear Finite Element Analysis (FEA) Program of Composite Beams and Plates (Spr 2022)
         link: 
@@ -207,9 +210,9 @@ projects:
 
       - title: Participation in the Student Project C-Class Catamaran (2016 to 2018)
         link: "https://www.rafale-ets.com/en/rafale-ii-class-c"
-        tagline: "I was involved in the design and manufacturing of a 25-foot foiling catamaran, with particular responsibility for developing the interface between the daggerboards and the hulls."
+        tagline: "I was involved in the design and manufacturing of a 25-foot foiling catamaran, with particular responsibility for developing the interface between the daggerboards and the hulls. This involved the use of Catia for 3D modeling and Altair for structural analysis."
 
-      - title: Design and Manufacture of a Nylon Ropes Machine Cutter (Spr 2016)
+      - title: Design and Manufacture of a Nylon Rope Machine Cutter (Spr 2016)
         link: "https://www.youtube.com/watch?v=KyTDR0l1Jcc&t=19s&ab_channel=SimonPelletier"
         tagline: "I collaborated with a colleague on the design and manufacture of the prototype, as well as the programming of an Arduino board for system operation and user interface."
 
