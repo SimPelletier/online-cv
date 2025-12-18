@@ -10,7 +10,8 @@ sidebar:
     # Profile information
     name: Simon Pelletier
     tagline: M.A.Sc. Candidate | Mechanical Engineering
-    avatar: SimonPicture.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: Norway.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    #avatar: SimonPicture.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: simon.pelletier.5@etsmtl.net
@@ -95,7 +96,7 @@ education:
     info:
       - degree: M.A.Sc. candidate in Mechanical Engineering
         university: École de Technologie Supérieure (ETS)
-        time: Since 2022
+        time: 2022 to 2025
         details: |
           Comprehensive mechanical modeling of cables under cyclic loading for service life prediction.
             - [3D reconstruction of cable internal wire paths from computed tomography data](https://event.fourwaves.com/csme2023/abstracts/1738a563-c5d7-40d8-9531-1f3403ec064c) using image processing (OpenCV)
@@ -118,6 +119,13 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: AEOLUS Project Manager
+        time: Since 2025
+        company: Preformed Line Products (PLP) 
+        details: |
+          Power Line Motion Monitoring Systems
+          - Design of new monitoring devices
+          - Installations coordination
       - role: Practical class teacher for MEC528 course.
         time: 2022 to 2024
         company: École de Technologie Supérieure (ETS)
@@ -240,6 +248,11 @@ publications:
     intro: |
 
     papers:
+      - title: Modeling approach for analyzing braided shielding structures in HV cables under bending loads
+        link: "https://event.fourwaves.com/csme2025/abstracts/2c6582e3-ae4c-4d0c-9a26-adeca597b40b"
+        authors: Simon Pelletier, Alexandre Mongrain, Sébastien Lalonde
+        conference: CSME, 2025
+
       - title: HV cable 3D geometric reconstruction from computed tomography scan
         link: "https://event.fourwaves.com/csme2023/abstracts/1738a563-c5d7-40d8-9531-1f3403ec064c"
         authors: Simon Pelletier, Alexandre Mongrain, Sébastien Lalonde
