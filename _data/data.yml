@@ -24,6 +24,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab: 
     bitbucket:
+    bluesky:  # Specify your full Bluesky handle
     twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
@@ -59,7 +60,6 @@ sidebar:
         
         - item: Machining
           link:
-
 
 career-profile:
     title: Career Profile
@@ -270,5 +270,5 @@ publications:
         conference: CSME, 2023
      
 footer: >
-    References Upon Request | 
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    References Upon Request 
+#| Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
