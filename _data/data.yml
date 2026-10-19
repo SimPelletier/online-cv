@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Simon Pelletier
-    tagline: M.A.Sc. | Bachelor in Mechanical Engineering
+    tagline: M.A.Sc. | Mechanical Engineer
     avatar: SimonPicture.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -64,7 +64,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a mechanical engineering candidate with a specialization in mechanical design. I possess particular expertise in the use of Python and open-source libraries for the design and validation of mechanical structures, which I have applied to my master's project. 
+      I am a mechanical engineer with a specialization in mechanical design. I possess particular expertise in the use of Python and open-source libraries for the design and validation of mechanical structures, which I have applied to my master's project. 
 
       My experience includes mechanical design of composite structures, manufacturing processes, tooling and machine element design. Additionally, I have a strong understanding of cable mechanics, which I acquired as part of my master's research. 
 
